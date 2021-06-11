@@ -1,0 +1,1 @@
+pkg install git && git clone  && chmod 777 * && cp tool /data/data/com.termux/files/usr/bin/ && clear && tool
