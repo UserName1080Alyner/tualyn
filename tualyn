@@ -1,1 +1,1 @@
-pkg install git && git clone  && chmod 777 * && cp tool /data/data/com.termux/files/usr/bin/ && clear && tool
+pkg install git && git clone  https://github.com/UserName1080Alyner/tualyn/tool.sh && chmod 777 * && cp tool.sh /data/data/com.termux/files/usr/bin/ && rm tool && clear && tool.sh
